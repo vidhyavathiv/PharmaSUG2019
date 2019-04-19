@@ -7,7 +7,7 @@ To execute and test the programs and the relevant outputs, you will need the fol
 3. SAS 9.2 and above with additional packages that load PROC IML/EXPAND.
 
 Steps of execution:
-1. Create a directory structure which has the below layout:
+1. Create a directory structure which has the below layout:                                                                                         
 Main folder: C:\Image_Processing\
 Sub folder[1]: BMP
 Sub Sub folder[1a]: Created
